@@ -7,7 +7,7 @@ public class xsis08 {
     static final double cf= 459.67;
     static final double cd= 1.8;
     public static void main(String[] args) {
-        double kelvin,fahrenheit;
+        double fahrenheit,kelvin;
         Scanner scan = new Scanner(System.in);
         System.out.println("Input temperature fahrenheit");
         fahrenheit = scan.nextDouble();

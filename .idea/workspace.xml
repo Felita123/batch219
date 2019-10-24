@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz01/quiz9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsisday1/xsis08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis08.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +35,9 @@
   </component>
   <component name="ProjectId" id="1Sd7A8nQsz3xCzRXG6wq9IJmMV8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,14 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.xsis08">
-    <configuration name="xsis01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis01" />
+  <component name="RunManager" selected="Application.xsis09">
+    <configuration name="quiz3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz01.quiz3" />
       <module name="belajar okt" />
-      <option name="PROGRAM_PARAMETERS" value="batch 219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="PATTERN" value="quiz01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xsis05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis05" />
+    <configuration name="quiz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz01.quiz5" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="PATTERN" value="quiz01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xsis06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis06" />
+    <configuration name="quiz6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz01.quiz6" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="PATTERN" value="quiz01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xsis07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis07" />
+    <configuration name="quiz9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz01.quiz9" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="PATTERN" value="quiz01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xsis08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis08" />
+    <configuration name="xsis09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis09" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
@@ -106,19 +117,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.xsis01" />
-      <item itemvalue="Application.xsis05" />
-      <item itemvalue="Application.xsis06" />
-      <item itemvalue="Application.xsis07" />
-      <item itemvalue="Application.xsis08" />
+      <item itemvalue="Application.quiz3" />
+      <item itemvalue="Application.quiz5" />
+      <item itemvalue="Application.quiz9" />
+      <item itemvalue="Application.quiz6" />
+      <item itemvalue="Application.xsis09" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.xsis08" />
-        <item itemvalue="Application.xsis07" />
-        <item itemvalue="Application.xsis06" />
-        <item itemvalue="Application.xsis01" />
-        <item itemvalue="Application.xsis05" />
+        <item itemvalue="Application.xsis09" />
+        <item itemvalue="Application.quiz6" />
+        <item itemvalue="Application.quiz9" />
+        <item itemvalue="Application.quiz5" />
+        <item itemvalue="Application.quiz3" />
       </list>
     </recent_temporary>
   </component>
@@ -140,10 +151,43 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsisday1/xsis05.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsisday1/xsis05.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsisday1/xsis05.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsisday1/xsis05.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsisday1/xsis05.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
