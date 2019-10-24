@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis01.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,47 +38,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.xsis01">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="belajar okt" />
-      <option name="PROGRAM_PARAMETERS" value="Hello batch 219" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.xsis08">
     <configuration name="xsis01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis01" />
       <module name="belajar okt" />
       <option name="PROGRAM_PARAMETERS" value="batch 219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xsis02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis02" />
-      <module name="belajar okt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsisday1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xsis04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis04" />
-      <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xsisday1.*" />
@@ -98,20 +66,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="xsis06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis06" />
+      <module name="belajar okt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xsis07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis07" />
+      <module name="belajar okt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xsis08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsisday1.xsis08" />
+      <module name="belajar okt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsisday1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.xsis01" />
-      <item itemvalue="Application.xsis02" />
-      <item itemvalue="Application.xsis04" />
       <item itemvalue="Application.xsis05" />
+      <item itemvalue="Application.xsis06" />
+      <item itemvalue="Application.xsis07" />
+      <item itemvalue="Application.xsis08" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.xsis08" />
+        <item itemvalue="Application.xsis07" />
+        <item itemvalue="Application.xsis06" />
         <item itemvalue="Application.xsis01" />
         <item itemvalue="Application.xsis05" />
-        <item itemvalue="Application.xsis04" />
-        <item itemvalue="Application.xsis02" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
