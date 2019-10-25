@@ -10,10 +10,10 @@ public class xsis09 {
         sisa = bilangan % 1000;
         System.out.println("digit1="+digit1+",sisa="+sisa);
         digit2=sisa/100;
-        sisa = bilangan % 100;
+        sisa = sisa % 100;
         System.out.println("digit2="+digit2+",sisa="+sisa);
         digit3=sisa/10;
-        sisa = bilangan % 10;
+        sisa = sisa % 10;
         System.out.println("digit3="+digit3+",sisa="+sisa);
         digit4=sisa;
         System.out.println("digit4="+digit4+",sisa="+sisa);
