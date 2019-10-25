@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRxsis/pr07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/com/xsisday1/xsis09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsisday1/xsis09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsisday1/xsis09.java" afterDir="false" />
-    </list>
+    <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
