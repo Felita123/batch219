@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz02/no7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/Match02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/conditi01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/conditi02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/match01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/META-INF/belajar okt.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/PRxsis/pr04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/PRxsis/pr04.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pr02">
-    <configuration name="pr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRxsis.pr02" />
+  <component name="RunManager" selected="Application.condition05">
+    <configuration name="condition03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xsis.day2.condition.condition03" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRxsis.*" />
+          <option name="PATTERN" value="xsis.day2.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRxsis.pr04" />
+    <configuration name="condition05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xsis.day2.condition.condition05" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRxsis.*" />
+          <option name="PATTERN" value="xsis.day2.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRxsis.pr05" />
+    <configuration name="no4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz02.no4" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRxsis.*" />
+          <option name="PATTERN" value="quiz02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRxsis.pr06" />
+    <configuration name="no6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz02.no6" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRxsis.*" />
+          <option name="PATTERN" value="quiz02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRxsis.pr07" />
+    <configuration name="no7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz02.no7" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRxsis.*" />
+          <option name="PATTERN" value="quiz02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.pr04" />
-      <item itemvalue="Application.pr05" />
-      <item itemvalue="Application.pr06" />
-      <item itemvalue="Application.pr07" />
-      <item itemvalue="Application.pr02" />
+      <item itemvalue="Application.no4" />
+      <item itemvalue="Application.no6" />
+      <item itemvalue="Application.no7" />
+      <item itemvalue="Application.condition03" />
+      <item itemvalue="Application.condition05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pr02" />
-        <item itemvalue="Application.pr07" />
-        <item itemvalue="Application.pr06" />
-        <item itemvalue="Application.pr05" />
-        <item itemvalue="Application.pr04" />
+        <item itemvalue="Application.condition05" />
+        <item itemvalue="Application.condition03" />
+        <item itemvalue="Application.no6" />
+        <item itemvalue="Application.no7" />
+        <item itemvalue="Application.no4" />
       </list>
     </recent_temporary>
   </component>
