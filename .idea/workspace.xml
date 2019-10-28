@@ -2,30 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b0588-2504-4cec-8624-7377bf209086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz02/no7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/Match02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/conditi01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/conditi02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/condition/condition05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/match01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xsis/day2/string/string07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/no18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/pr15lain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prNo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRxsis/ke2/prno26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/META-INF/belajar okt.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar okt/PRxsis/pr04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar okt/PRxsis/pr04.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.condition05">
-    <configuration name="condition03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xsis.day2.condition.condition03" />
+  <component name="RunManager" selected="Application.prno17">
+    <configuration name="pr15lain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRxsis.ke2.pr15lain" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xsis.day2.condition.*" />
+          <option name="PATTERN" value="PRxsis.ke2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condition05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xsis.day2.condition.condition05" />
+    <configuration name="prno17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRxsis.ke2.prno17" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xsis.day2.condition.*" />
+          <option name="PATTERN" value="PRxsis.ke2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quiz02.no4" />
+    <configuration name="prno23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRxsis.ke2.prno23" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quiz02.*" />
+          <option name="PATTERN" value="PRxsis.ke2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quiz02.no6" />
+    <configuration name="prno24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRxsis.ke2.prno24" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quiz02.*" />
+          <option name="PATTERN" value="PRxsis.ke2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quiz02.no7" />
+    <configuration name="prno26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRxsis.ke2.prno26" />
       <module name="belajar okt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quiz02.*" />
+          <option name="PATTERN" value="PRxsis.ke2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.no4" />
-      <item itemvalue="Application.no6" />
-      <item itemvalue="Application.no7" />
-      <item itemvalue="Application.condition03" />
-      <item itemvalue="Application.condition05" />
+      <item itemvalue="Application.prno23" />
+      <item itemvalue="Application.pr15lain" />
+      <item itemvalue="Application.prno24" />
+      <item itemvalue="Application.prno26" />
+      <item itemvalue="Application.prno17" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.condition05" />
-        <item itemvalue="Application.condition03" />
-        <item itemvalue="Application.no6" />
-        <item itemvalue="Application.no7" />
-        <item itemvalue="Application.no4" />
+        <item itemvalue="Application.prno17" />
+        <item itemvalue="Application.prno26" />
+        <item itemvalue="Application.prno24" />
+        <item itemvalue="Application.pr15lain" />
+        <item itemvalue="Application.prno23" />
       </list>
     </recent_temporary>
   </component>
